@@ -5,7 +5,9 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * 图片
+ * 视频
+ *
+ * @author <a href="https://github.com/JaderSun">JaderSun</a>
  */
 @Data
 public class Video implements Serializable {

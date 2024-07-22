@@ -31,6 +31,8 @@ import java.util.Map;
 /**
  * 设计模式: 门面模式
  * 搜索门面
+ *
+ * @author <a href="https://github.com/JaderSun">JaderSun</a>
  */
 @Component
 public class SearchFacade {

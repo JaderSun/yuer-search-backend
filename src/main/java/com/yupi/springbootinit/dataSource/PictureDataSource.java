@@ -18,6 +18,8 @@ import java.util.Map;
 
 /**
  * 图片服务实现类
+ *
+ * @author <a href="https://github.com/JaderSun">JaderSun</a>
  */
 @Service
 public class PictureDataSource implements DataSource<Picture> {

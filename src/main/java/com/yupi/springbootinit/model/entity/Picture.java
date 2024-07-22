@@ -6,6 +6,8 @@ import java.io.Serializable;
 
 /**
  * 图片
+ *
+ * @author <a href="https://github.com/JaderSun">JaderSun</a>
  */
 @Data
 public class Picture implements Serializable {

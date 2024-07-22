@@ -19,6 +19,8 @@ import java.util.Map;
 
 /**
  * 视频服务实现类
+ *
+ * @author <a href="https://github.com/JaderSun">JaderSun</a>
  */
 @Service
 public class VideoDataSource implements DataSource<Video> {

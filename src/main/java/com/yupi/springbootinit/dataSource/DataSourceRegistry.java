@@ -9,6 +9,11 @@ import javax.annotation.Resource;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 注册器模式
+ *
+ * @author <a href="https://github.com/JaderSun">JaderSun</a>
+ */
 @Component
 public class DataSourceRegistry {
 
