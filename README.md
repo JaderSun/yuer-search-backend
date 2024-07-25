@@ -8,7 +8,7 @@
 
 ## 项目架构
 
-<img src="./img/archi.png" alt="image-20230515115642677" style="zoom:80%;" align="left"/>
+<img src="./img/archi.png" alt="image-20230515115642677" style="zoom:80%;" align="center"/>
 
 
 ## 技术栈
